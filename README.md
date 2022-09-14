@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gammonmark
-- 👀 I’m interested in learning all about GitHub for my new job
+- 👀 I’m interested in learning more about GitHub
 - 🌱 I’m currently learning repos, issues, pull requests
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... gammonmark@duck.com
